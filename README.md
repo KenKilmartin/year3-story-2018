@@ -5,3 +5,6 @@ for this repo, to use as a starting point for your story
 (and don't forget to complete your assessment by making a 'pull request' back to me...)
 
 .. matt smith ...
+
+
+[Chapter 1] (Starting off writing intial ideas for chapter 1, setting the scene)
