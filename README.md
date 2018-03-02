@@ -8,3 +8,7 @@
 [Chapter 2] (Writing initial ideas of chapter 2)
 <br>
 [Chapter 3] (Writing initial ideas of chapter 3)
+<br>
+[Chapter 3] (Created a new branch )
+<br>
+[Chapter 3] (Created an alternative ending for chapter 3 )
