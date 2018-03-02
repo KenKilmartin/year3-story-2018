@@ -6,3 +6,5 @@
 [Chapter 1] (Fixed issue raised and went through and edited some spelling and grammer)
 <br>
 [Chapter 2] (Writing initial ideas of chapter 2)
+<br>
+[Chapter 3] (Writing initial ideas of chapter 3)
