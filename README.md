@@ -1,5 +1,9 @@
 # year3-story-2018
 
+Ken Kilmartin
+B00091252
+Git Story
+
  
 <a href ="https://kenkilmartin.github.io/year3-story-2018/"> Click here to link to my github pages is.  </a> 
 <br>
