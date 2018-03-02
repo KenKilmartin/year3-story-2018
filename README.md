@@ -12,3 +12,5 @@
 [Chapter 1] (More grammer and spelling changes to chapter 1)
 <br>
 [Chapter 2] (More grammer and spelling changes to chapter 2)
+<br>
+[Chapter 3] (More grammer and spelling changes to chapter 3)
