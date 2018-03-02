@@ -12,3 +12,5 @@
 [Chapter 3] (Created a new branch )
 <br>
 [Chapter 3] (Created an alternative ending for chapter 3 )
+<br>
+[Chapter 3] (Spell checked alternative ending)
