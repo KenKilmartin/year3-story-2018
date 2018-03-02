@@ -23,7 +23,7 @@
 [Chapter 3] (Spell checked alternative ending) 
 
 
-<h1> Finnished chapters can be seen here : </h1>
+<h1> Finished chapters can be seen here : </h1>
 
 <a href ="https://github.com/KenKilmartin/year3-story-2018/blob/master/Chapter1.html"> Chapter 1  </a> 
 <br>
