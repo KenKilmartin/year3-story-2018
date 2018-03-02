@@ -2,7 +2,7 @@
 
 
  
-<a href ="https://kenkilmartin.github.io/year3-story-2018/"> <h1>Click here to link to my github pages. </h1> </a>
+<a href ="https://kenkilmartin.github.io/year3-story-2018/"> Click here to link to my github pages.  </a>
 
 [Chapter 1] (Starting off writing intial ideas for chapter 1, setting the scene)
 <br>
