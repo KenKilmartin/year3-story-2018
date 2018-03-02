@@ -8,3 +8,5 @@
 [Chapter 2] (Writing initial ideas of chapter 2)
 <br>
 [Chapter 3] (Writing initial ideas of chapter 3)
+<br>
+[Chapter 1] (More grammer and spelling changes to chapter 1)
