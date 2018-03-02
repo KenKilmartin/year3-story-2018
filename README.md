@@ -29,5 +29,8 @@
 <br>
 <a href ="https://github.com/KenKilmartin/year3-story-2018/blob/master/Chapter2.html"> Chapter 2  </a> 
 <br>
-<a href ="https://github.com/KenKilmartin/year3-story-2018/blob/alternative_ending/Chapter3_alternative_ending.html"> Chapter 3  </a> 
+<a href ="https://github.com/KenKilmartin/year3-story-2018/blob/master/Chapter3.html"> Chapter 3  </a> 
+<br>
+<a href ="https://github.com/KenKilmartin/year3-story-2018/blob/alternative_ending/Chapter3_alternative_ending.html"> Chapter 3 Alternative_ending
+</a> 
 <br>
