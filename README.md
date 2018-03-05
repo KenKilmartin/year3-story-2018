@@ -39,6 +39,6 @@ This is a story of a man in a life or death situation how he handles it is anyon
 [Chapter 2](Chapter2.html)<br>
 [Chapter 3](Chapter3.html)<br>
 <i>Can only see alternative ending when on that branch   </i> <br>
-[Chapter 3 Alternative ending](Chapter3_alternative_ending.html)<br>
+[Chapter 3 Alternative ending](alternative_ending/Chapter3_alternative_ending.html)<br>
  
 <br>
