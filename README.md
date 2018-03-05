@@ -14,7 +14,7 @@ This is a story of a man in a life or death situation how he handles it is anyon
 
 <h1> The Changes made are : </h1>
 [vol 1 Chapter 1] (Making chapter htmls ) <br>
-[vol 2 chapter 1] (Starting off writing intial ideas for chapter 1, setting the scene)
+[vol 2 Chapter 1] (Starting off writing intial ideas for chapter 1, setting the scene)
 <br>
 [vol 3] (Setting the theme for readme) <br>
 [vol 4 Chapter 1] (Fixed issue raised and went through and edited some spelling and grammer)
@@ -35,8 +35,9 @@ This is a story of a man in a life or death situation how he handles it is anyon
 
 <h1> Finished chapters can be seen here : </h1>
 
-[Chapter 1](chapter1.html)<br>
-[Chapter 2](chapter2.html)<br>
-[Chapter 3](chapter3.html)<br>
+[Chapter 1](Chapter1.html)<br>
+[Chapter 2](Chapter2.html)<br>
+[Chapter 3](Chapter3.html)<br>
+[Chapter 3 Alternative ending](Chapter3_alternative_ending.html)<br>
 </a> 
 <br>
