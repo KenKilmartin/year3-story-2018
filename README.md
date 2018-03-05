@@ -31,6 +31,8 @@ This is a story of a man in a life or death situation how he handles it is anyon
 [vol 10 Chapter 3] (Spell checked alternative ending)<br>
 [vol 11 Chapter 3] (Missing punctuation on alternative ending) <br>
 [vol 12 ] (Changing readme.md) <br>
+[vol 13 ] (Adding little style to first 3 chapters) <br>
+
 
 
 <h1> Finished chapters can be seen here : </h1>
