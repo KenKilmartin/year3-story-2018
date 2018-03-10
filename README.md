@@ -24,7 +24,7 @@ This is a story of a man in a life or death situation how he handles it is anyon
 <br>
 [vol 7 Chapter 3] (Writing initial ideas of chapter 3)
 <br>
-[vol 8 Chapter 3] (Created a new branch )
+[vol 8 Chapter 3] (Created a new branch)
 <br>
 [vol 9 Chapter 3] (Created an alternative ending for chapter 3 )
 <br>
@@ -34,7 +34,7 @@ This is a story of a man in a life or death situation how he handles it is anyon
 [vol 13] (Adding little style to first 3 chapters) <br>
 [vol 14] (Adding a title to chapter 2 and changes to readme.md)<br>
 [vol 15] (Adding a title to chapter 3 and changes to readme.md)
-
+[vol 16] (Adding a href to go to the next chapter)
 
 <h1> Finished chapters can be seen here : </h1>
 
